@@ -14,7 +14,6 @@ export interface CharacterComponentProps extends NodeViewProps {
 }
 
 export const CharacterComponent: React.FC<CharacterComponentProps> = ({
-  editor,
   onCharacterCreated,
 }) => {
   const suggestions = useContext(CharactersContext);

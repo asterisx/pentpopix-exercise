@@ -1,9 +1,5 @@
 import { createContext, useEffect, useRef, useState } from "react";
-import {
-  useEditor,
-  EditorContent as BaseEditorContent,
-  Editor as TiptapEditor,
-} from "@tiptap/react";
+import { useEditor, EditorContent as BaseEditorContent } from "@tiptap/react";
 import StarterKit from "@tiptap/starter-kit";
 import {
   Action,
