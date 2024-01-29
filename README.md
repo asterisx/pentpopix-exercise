@@ -1,3 +1,4 @@
+For usage, right now as of now, one needs to click the editor a few rows down and one can start typing
 TODO
 [] - Numbering on Scene Setting
 
